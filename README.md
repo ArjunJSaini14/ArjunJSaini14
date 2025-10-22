@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Arjun Saini</h1>
 <h3 align="center">Hi, my name is Arjun Saini, and I'm a sophomore at Northeastern University studying Computer Science and Economics. I'm passionate about fintech and software development, particularly how technology can enhance financial systems and improve user accessibility. I enjoy building full-stack applications that combine functionality with thoughtful design and have experience developing tools that streamline organization and simulate real-world systems. I'm especially interested in exploring the intersection of finance, data, and technology, using software to make complex financial concepts more transparent and user-friendly. Whether through coding, problem-solving, or collaborating on team projects, I'm driven by the opportunity to create impactful, efficient, and user-centered digital solutions.</h3>
 
-- TaskBoard Manager, Tech. Stack: React, Tailwind, JavaScript, Node.js, PostgreSQL: <br> **Designing and developing a full-stack project management application using React, Tailwind, JavaScript, Node.js, and PostgreSQL, enabling users to create boards, organize tasks, and track progress through a user-friendly interface. Implementing secure CRUD operations, drag-and-drop management, and real-time data persistence in PostgreSQL, enhancing collaboration features and supporting seamless updates for 30+ simulated user records.**
-
-- Klondike, Tech. Stack: Java: **Designed and implemented a Klondike Solitaire game in Java with multiple variants (Basic, Whitehead) using inheritance and abstract classes to maximize code reuse while maintaining variant-specific game-rules through polymorphic methods. Developed a Model-View-Controller architecture with a textual interface, robust input parsing controller, and comprehensive JUnit test suite utilizing mock objects to validate game logic, user interactions, and to isolate controller behavior. Applied object-oriented design patterns including Factory for game variant instantiation and Template method for shared behavior, achieving 90%+ code reuse through composition and abstraction while maintaining extensibility.**
-
-- Cognitive Trainer, Tech. Stack: Python: **Developed and deployed interactive memory and reaction-time applications in Python, creating intuitive interfaces tailored for senior users and enhancing accessibility, engagement, and ease of use through thoughtful design. Enhanced cognitive engagement and responsiveness for 20+ participants from the local senior center by providing exercises that improved short-term memory recall and reaction speed through structured tasks.**
-
-- 👨‍💻 Visit my portfolio: [https://arjunjsaini14.github.io/ArjunSainiPortfolio/](https://arjunjsaini14.github.io/ArjunSainiPortfolio/)
+- 👨‍💻 Visit my portfolio: https://arjunjsaini14.github.io/ArjunSainiPortfolio/
 
 - 📫 How to reach me **saini.ar@northeastern.edu**
 
 - 🌱 Courses: Object Oriented Design, Fundamentals of Computer Science 1 & 2, Discrete Structures, Intro to Math Reasoning, Principles of Microeconomics, Principles of Macroeconomics, Microeconomic Theory, Macroeconomic Theory, Mechanics and Philosphy of LLM's, Public Speaking
+
+- TaskBoard Manager, Tech. Stack: React, Tailwind, JavaScript, Node.js, PostgreSQL: <br> **Designing and developing a full-stack project management application using React, Tailwind, JavaScript, Node.js, and PostgreSQL, enabling users to create boards, organize tasks, and track progress through a user-friendly interface. Implementing secure CRUD operations, drag-and-drop management, and real-time data persistence in PostgreSQL, enhancing collaboration features and supporting seamless updates for 30+ simulated user records.**
+
+- Klondike, Tech. Stack: Java: <br> **Designed and implemented a Klondike Solitaire game in Java with multiple variants (Basic, Whitehead) using inheritance and abstract classes to maximize code reuse while maintaining variant-specific game-rules through polymorphic methods. Developed a Model-View-Controller architecture with a textual interface, robust input parsing controller, and comprehensive JUnit test suite utilizing mock objects to validate game logic, user interactions, and to isolate controller behavior. Applied object-oriented design patterns including Factory for game variant instantiation and Template method for shared behavior, achieving 90%+ code reuse through composition and abstraction while maintaining extensibility.**
+
+- Cognitive Trainer, Tech. Stack: Python: <br> **Developed and deployed interactive memory and reaction-time applications in Python, creating intuitive interfaces tailored for senior users and enhancing accessibility, engagement, and ease of use through thoughtful design. Enhanced cognitive engagement and responsiveness for 20+ participants from the local senior center by providing exercises that improved short-term memory recall and reaction speed through structured tasks.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
