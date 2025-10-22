@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Arjun Saini</h1>
+<h3 align="center">A passionate full-stack developer from Boston, MA.</h3>
 
-<!--
-**ArjunJSaini14/ArjunJSaini14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Designing and developing a full-stack project management application using React, Tailwind, JavaScript, Node.js, and PostgreSQL, enabling users to create boards, organize tasks, and track progress through a user-friendly interface. Implementing secure CRUD operations, drag-and-drop management, and real-time data persistence in PostgreSQL, enhancing collaboration features and supporting seamless updates for 30+ simulated user records. **TaskBoard Manager, Tech. Stack: React, Tailwind, JavaScript, Node.js, PostgreSQL**
 
-Here are some ideas to get you started:
+- 🌱 Courses: **Object Oriented Design, Fundamentals of Computer Science 1 & 2, Discrete Structures, Intro to Math Reasoning, Principles of Microeconomics, Principles of Macroeconomics, Microeconomic Theory, Macroeconomic Theory, Mechanics and Philosphy of LLM's, Public Speaking**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Designed and implemented a Klondike Solitaire game in Java with multiple variants (Basic, Whitehead) using inheritance and abstract classes to maximize code reuse while maintaining variant-specific game-rules through polymorphic methods. Developed a Model-View-Controller architecture with a textual interface, robust input parsing controller, and comprehensive JUnit test suite utilizing mock objects to validate game logic, user interactions, and to isolate controller behavior. Applied object-oriented design patterns including Factory for game variant instantiation and Template method for shared behavior, achieving 90%+ code reuse through composition and abstraction while maintaining extensibility. **Klondike, Tech. Stack: Java**
+
+- Developed and deployed interactive memory and reaction-time applications in Python, creating intuitive interfaces tailored for senior users and enhancing accessibility, engagement, and ease of use through thoughtful design. Enhanced cognitive engagement and responsiveness for 20+ participants from the local senior center by providing exercises that improved short-term memory recall and reaction speed through structured tasks. **Cognitive Trainer, Tech. Stack: Python**
+
+- 👨‍💻 Visit my portfolio: [https://arjunjsaini14.github.io/ArjunSainiPortfolio/](https://arjunjsaini14.github.io/ArjunSainiPortfolio/)
+
+- 📫 How to reach me **saini.ar@northeastern.edu**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/arjun-saini-8b422a336/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arjun-saini-8b422a336/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
