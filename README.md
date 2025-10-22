@@ -9,9 +9,9 @@
 
 - 👨‍💻 Visit my portfolio: [https://arjunjsaini14.github.io/ArjunSainiPortfolio/](https://arjunjsaini14.github.io/ArjunSainiPortfolio/)
 
-- 🌱 Courses: [Object Oriented Design, Fundamentals of Computer Science 1 & 2, Discrete Structures, Intro to Math Reasoning, Principles of Microeconomics, Principles of Macroeconomics, Microeconomic Theory, Macroeconomic Theory, Mechanics and Philosphy of LLM's, Public Speaking](Object Oriented Design, Fundamentals of Computer Science 1 & 2, Discrete Structures, Intro to Math Reasoning, Principles of Microeconomics, Principles of Macroeconomics, Microeconomic Theory, Macroeconomic Theory, Mechanics and Philosphy of LLM's, Public Speaking)
-
 - 📫 How to reach me **saini.ar@northeastern.edu**
+
+- 🌱 Courses: [Object Oriented Design, Fundamentals of Computer Science 1 & 2, Discrete Structures, Intro to Math Reasoning, Principles of Microeconomics, Principles of Macroeconomics, Microeconomic Theory, Macroeconomic Theory, Mechanics and Philosphy of LLM's, Public Speaking](Object Oriented Design, Fundamentals of Computer Science 1 & 2, Discrete Structures, Intro to Math Reasoning, Principles of Microeconomics, Principles of Macroeconomics, Microeconomic Theory, Macroeconomic Theory, Mechanics and Philosphy of LLM's, Public Speaking)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
