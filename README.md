@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun Saini</h1>
 <h3 align="center">Hi, my name is Arjun Saini, and I'm a sophomore at Northeastern University studying Computer Science and Economics. I'm passionate about fintech and software development, particularly how technology can enhance financial systems and improve user accessibility. I enjoy building full-stack applications that combine functionality with thoughtful design and have experience developing tools that streamline organization and simulate real-world systems. I'm especially interested in exploring the intersection of finance, data, and technology, using software to make complex financial concepts more transparent and user-friendly. Whether through coding, problem-solving, or collaborating on team projects, I'm driven by the opportunity to create impactful, efficient, and user-centered digital solutions.</h3>
 
-- 👨‍💻 Visit my portfolio: https://arjunjsaini14.github.io/ArjunSainiPortfolio/
+- 👨‍💻 Visit my portfolio: https://arjunjsaini14.github.io/portfolio/
 
 - 📫 How to reach me **saini.ar@northeastern.edu**
 
