@@ -7,12 +7,6 @@
 
 - 🌱 Courses: Object Oriented Design, Fundamentals of Computer Science 1 & 2, Discrete Structures, Intro to Math Reasoning, Principles of Microeconomics, Principles of Macroeconomics, Microeconomic Theory, Macroeconomic Theory, Mechanics and Philosphy of LLM's, Public Speaking
 
-- TaskBoard Manager, Tech. Stack: React, Tailwind, JavaScript, Node.js, PostgreSQL: <br> **Designing and developing a full-stack project management application using React, Tailwind, JavaScript, Node.js, and PostgreSQL, enabling users to create boards, organize tasks, and track progress through a user-friendly interface. Implementing secure CRUD operations, drag-and-drop management, and real-time data persistence in PostgreSQL, enhancing collaboration features and supporting seamless updates for 30+ simulated user records.**
-
-- Klondike, Tech. Stack: Java: <br> **Designed and implemented a Klondike Solitaire game in Java with multiple variants (Basic, Whitehead) using inheritance and abstract classes to maximize code reuse while maintaining variant-specific game-rules through polymorphic methods. Developed a Model-View-Controller architecture with a textual interface, robust input parsing controller, and comprehensive JUnit test suite utilizing mock objects to validate game logic, user interactions, and to isolate controller behavior. Applied object-oriented design patterns including Factory for game variant instantiation and Template method for shared behavior, achieving 90%+ code reuse through composition and abstraction while maintaining extensibility.**
-
-- Cognitive Trainer, Tech. Stack: Python: <br> **Developed and deployed interactive memory and reaction-time applications in Python, creating intuitive interfaces tailored for senior users and enhancing accessibility, engagement, and ease of use through thoughtful design. Enhanced cognitive engagement and responsiveness for 20+ participants from the local senior center by providing exercises that improved short-term memory recall and reaction speed through structured tasks.**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
